@@ -1,0 +1,57 @@
+{
+  "DiscordBot": {
+    "Token": "OTAzMDY3NTIyOTM5NjQ2MDI0.YXnlKw.GF9iXhqdfa5vCVVdtSIq4S00c28",
+    "Prefix": "MC!",
+    "clientID": "903067522939646024",
+    "clientSecret": "ojH8K_xhYHOmDSSnOKAnuRa0TsdkaGJf",
+    "callbackURL": "https://176.31.203.20:1654/api/callback",
+    "ownerID": "856176853719187506",
+    "mainGuild": "1013082017015013468",
+    "mLogs": "1013123467832467476",
+    "oLogs": "1013123362547060806",
+    "modLogs": "1013123341613285417",
+    "requestsChannel": "1013134731463889096",
+    "welcome": "1013126598834262037",
+    "roles": {
+      "member": "1013093355334422669",
+      "client": "1013093311214518342",
+      "bot": "1013124113860153354",
+      "staff": "1013123952526241863",
+      "mute": "1013124206793326695",
+      "owner": "1013124591348088874"
+    },
+    "invitechannel": "1013126986354397324",
+    "inviterewmsg": "1013126598834262037",
+    "invites": {
+      "5": "5+ invites role ID",
+      "10": "10+ invites role ID",
+      "25": "25+ invites role ID",
+      "50": "50+ invites role ID",
+      "100": "100+ invites role ID",
+      "150": "150+ invites role ID",
+      "200": "200+ invites role ID"
+    },
+    "reactionRoles": {
+      "765877675147264000": {
+        "767897280401375244": {
+          "📣": "767845918350376960"
+        },
+        "767897353721086012": {
+          "🕹️": "760207814546817085",
+          "🎥": "758020921939460166",
+          "🎉": "765865412725440522",
+          "❔": "767846121195175938",
+          "⌛": "745358424883200210"
+        }
+      },
+      "754441222424363088": {
+        "770046936957845514": {
+          "🔪": "772945148937109546"
+        }
+      }
+    }
+  },
+  "DB": {
+    "MongoDB": "mongodb+srv://bump:bump123@bump-bot.0xfkz.mongodb.net/"
+  }
+}
